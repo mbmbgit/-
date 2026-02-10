@@ -24,16 +24,24 @@
 🛠 スキル・知識
 
 技術スタック
+
 Python (Django, Flask, FastAPI), JavaScript (React), Go, C++, HTML/CSS
+
 分野
+
 RPA,web sraping
+
 詳細
+
 DevOps / CI/CD
+
 言語 / FW
+
 GitHub Actions, Issue-ops, Git/GitHu
 
 インフラ / DB
 mysql
+
 AI / その他
 
 生成AI活用 (Few-shot prompting), 画像・動画アノテーション
