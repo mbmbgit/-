@@ -24,23 +24,16 @@
 🛠 スキル・知識
 
 技術スタック
-
-分野
-
-詳細
-
-言語 / FW
-
 Python (Django, Flask, FastAPI), JavaScript (React), Go, C++, HTML/CSS
+分野
+RPA,web sraping
+詳細
+DevOps / CI/CD
+言語 / FW
+GitHub Actions, Issue-ops, Git/GitHu
 
 インフラ / DB
-
-GCP, Docker, Ubuntu/Linux, Selenium, Firestore
-
-DevOps / CI/CD
-
-GitHub Actions, Issue-ops, Git/GitHub
-
+mysql
 AI / その他
 
 生成AI活用 (Few-shot prompting), 画像・動画アノテーション
@@ -129,7 +122,7 @@ IT業務と並行し、製造・物流業界にて「納期遵守」「安全管
 
 3. キャッチアップ速度と柔軟性
 
-独学からフリーランスとして活動を開始した背景があり、新技術の習得に抵抗がありません。現在は生成AI（LLM）の業務活用やGo言語の実装など、常に市場のニーズに合わせた学習を続けています。
+。現在は生成AI（LLM）の業務活用など、常に市場のニーズに合わせた学習を続けています。
 
 🔗 リンク
 
