@@ -1,74 +1,59 @@
-職務経歴書
+# 職務経歴書
 
 <div align="center">
-<h3>萬俵 秀俊 (Hidetoshi Mampyo)</h3>
-<p>Python / Web / Automation Engineer</p>
 
-<a href="https://github.com/mememori8888">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-181717%3Fstyle%3Dflat-square%26logo%3Dgithub%26logoColor%3Dwhite" alt="GitHub">
-</a>
-<a href="https://www.lancers.jp/profile/hideman_mememori8888">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Lancers-237FB6%3Fstyle%3Dflat-square%26logo%3Dlancers%26logoColor%3Dwhite" alt="Lancers">
-</a>
-<a href="https://docs.google.com/spreadsheets/d/1r68Yx4GzO0NEgAKrwx_ocUjKWZ7wbbHEJUMpMEkelWY/edit?usp=sharing">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Skill--Sheet-34A853%3Fstyle%3Dflat-square%26logo%3Dgooglesheets%26logoColor%3Dwhite" alt="Skill Sheet">
-</a>
+## 萬俵 秀俊 (Hidetoshi Mampyo)
+
+**Python / Web / Automation Engineer**
+
+[GitHub](https://github.com/mememori8888) | [Lancers](https://www.lancers.jp/profile/hideman_mememori8888) | [Skill Sheet](https://docs.google.com/spreadsheets/d/1r68Yx4GzO0NEgAKrwx_ocUjKWZ7wbbHEJUMpMEkelWY/edit?usp=sharing)
+
 </div>
 
-🚀 職務要約
+---
 
-「自動化による業務効率化」と「顧客満足度の高い納品」に強みを持つエンジニア
+## 🚀 職務要約
+
+**「自動化による業務効率化」と「顧客満足度の高い納品」に強みを持つエンジニア**
 
 2019年よりフリーランスとして、Pythonを用いたWeb開発・スクレイピング・業務自動化に従事。クラウドソーシングを通じ、中小企業を中心に180件以上のプロジェクトを完遂。顧客満足度97%を維持しています。要件定義から開発、保守まで一貫して対応できる「完結力」と、リサーチ時間を90%削減する「課題解決力」を武器に、即戦力として貢献いたします。
 
-🛠 スキル・知識
+---
 
-技術スタック
 
-Python (Django, Flask, FastAPI), JavaScript (React), Go, C++, HTML/CSS
+## 🛠 スキル・知識
 
-分野
+### 技術スタック
 
-RPA,web sraping
+- **言語・フレームワーク**: Python (Django, Flask, FastAPI), JavaScript (React), Go, C++, HTML/CSS
+- **分野**: RPA, Web Scraping
 
-詳細
+### 詳細スキル
 
-DevOps / CI/CD
+| 領域 | スキル |
+|------|--------|
+| **DevOps / CI/CD** | GitHub Actions, Issue-ops, Git/GitHub |
+| **インフラ / DB** | MySQL, Docker |
+| **AI / その他** | 生成AI活用 (Few-shot prompting), 画像・動画アノテーション |
 
-言語 / FW
+### 資格
 
-GitHub Actions, Issue-ops, Git/GitHu
+- ITパスポート
 
-インフラ / DB
-mysql
+---
 
-AI / その他
-
-生成AI活用 (Few-shot prompting), 画像・動画アノテーション
-
-資格
-
-ITパスポート
-
-LPIC レベル1相当の知識
-
-💼 主要な職務経歴
+## 💼 主要な職務経歴
 
 個人事業主（フリーランス エンジニア）
 
-期間：2019年12月 ～ 現在
-
 【実績】
 
-総プロジェクト数: 183件
 
 顧客評価: 満足度97.2% (178/183)
 
-【主なプロジェクト事例】
 
 業務効率化ツールの開発 (Python/Selenium)
 
-概要: 顧客のリサーチ業務自動化。
 
 成果: 手動作業を自動化し、作業時間を 10時間 → 1時間 (90%削減) へ短縮。
 
@@ -76,28 +61,21 @@ LPIC レベル1相当の知識
 
 概要: 曖昧な要件に対し、早期プロトタイプ提示による「提案型」開発を徹底。
 
+
 成果: リピート受注の増加と報酬単価の向上を実現。
 
-Webアプリケーション受託開発
 
-概要: Flask/Django + GCPを用いた中小企業向け業務支援ツールの構築。
+概要: Github actoins pages issueを用いた中小企業向け業務支援ツールの構築。
 
-技術: Python, Docker, GitHub Actionsによる自動デプロイ。
 
 📝 その他の職務経歴（ダイジェスト）
 
-IT業務と並行し、製造・物流業界にて「納期遵守」「安全管理」を徹底した現場経験を積んでいます。
 
 期間
-
 形態
 
 業務内容
-
-2024.06 - 2024.12
-
 派遣
-
 大手物流倉庫（Amazon京田辺等）：ピッキング・仕分け。
 
 2023.07 - 2023.12
