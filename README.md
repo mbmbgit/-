@@ -112,10 +112,11 @@
 
 🔗 リンク
 
-GitHub
+[GitHub](https://github.com/mememori8888) 
 
-Skill Sheet (Google Sheets)
+[Lancers](https://www.lancers.jp/profile/hideman_mememori8888)
 
-Lancers Profile
+[Skill Sheet](https://docs.google.com/spreadsheets/d/1r68Yx4GzO0NEgAKrwx_ocUjKWZ7wbbHEJUMpMEkelWY/edit?usp=sharing)
+
 
 © 2026 Hidetoshi Mampyo
