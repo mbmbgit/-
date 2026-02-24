@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## 萬俵 秀俊 (Hidetoshi Mampyo)
+## 萬俵 秀俊 (Hidetoshi Mambyo)
 
 **Python / Web / Automation Engineer**
 
