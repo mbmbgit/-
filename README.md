@@ -6,7 +6,7 @@
 
 **Python / Web / Automation Engineer**
 
-[GitHub](https://github.com/mememori8888) | [Lancers](https://www.lancers.jp/profile/hideman_mememori8888) | [Skill Sheet](https://docs.google.com/spreadsheets/d/1r68Yx4GzO0NEgAKrwx_ocUjKWZ7wbbHEJUMpMEkelWY/edit?usp=sharing)
+[自己紹介](https://mbmbgit.github.io/Professional-Resume/) | [Lancers](https://www.lancers.jp/profile/hideman_mememori8888) | [Skill Sheet](https://docs.google.com/spreadsheets/d/1r68Yx4GzO0NEgAKrwx_ocUjKWZ7wbbHEJUMpMEkelWY/edit?usp=sharing)
 
 </div>
 
@@ -112,7 +112,7 @@
 
 🔗 リンク
 
-[GitHub](https://github.com/mememori8888) 
+[GitHub](https://github.com/mbmbgit) 
 
 [Lancers](https://www.lancers.jp/profile/hideman_mememori8888)
 
