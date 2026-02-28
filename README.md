@@ -25,7 +25,7 @@
 
 ### 技術スタック
 
-- **言語・フレームワーク**: Python (Django, Flask, FastAPI), JavaScript (React), Go, C++, HTML/CSS
+- **言語・フレームワーク**: Python ( FastAPI), JavaScript (React), Go, C++, HTML/CSS
 - **分野**: RPA, Web Scraping
 
 ### 詳細スキル
@@ -52,7 +52,7 @@
 顧客評価: 満足度97.2% (178/183)
 
 
-業務効率化ツールの開発 (Python/Selenium)
+業務効率化ツールの開発 (Python/Selenium/praywright/scrapy)
 
 
 成果: 手動作業を自動化し、作業時間を 10時間 → 1時間 (90%削減) へ短縮。
